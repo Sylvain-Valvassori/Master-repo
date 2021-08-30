@@ -51,28 +51,41 @@
 
   .partOne{
     margin: 0 auto;
-    width: 70%;
+    width: 100vw;
     margin: 0 auto;
-    padding: 10px 0;
+    /* padding: 10px 50px; */
   }
   
   .myName{
       font-family: var(--font1);
       font-size: 2rem;
+      margin: 10px 0 0 50px;
   }
-  .content-partOne{
+
+  .contain-partOne{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0 auto;
+    padding: 70px 0; 
+  }
+  .text-partOne{
+    margin-right: 150px;
+    width: 50%;
   }
   
-  .my-picture{
-    height: 200px;
+  .inspirational-quote{
+    font-size: 3rem;
+    font-family: var(--font2);
   }
 
-.inspirational-quote{
-  font-size: 3rem;
-  font-family: var(--font2);
-  width: 7ch;
-  margin: 50px 50px;
+  .me-InOneSentence{
+    margin: 20px 0;
+    font-size: 1.6rem;
   }
+
+  .my-picture{
+    height: 400px;
+  }
+
+
