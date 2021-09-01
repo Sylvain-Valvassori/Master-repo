@@ -26,7 +26,9 @@
 
 ### Projets
 
-  - [Active Collab](https://github.com/Sylvain-Valvassori/Project-active.collab.github.io)
+  - [Active Collab](https://sylvain-valvassori.github.io/Project-active.collab.github.io/)    ||    [Visit le repo - Active Collab](https://github.com/Sylvain-Valvassori/Project-active.collab.github.io)  
+  
+  
   - [futur lien](https://www.google.com)
   - [futur lien](https://www.google.com)
   - [futur lien](https://www.google.com)
