@@ -10,7 +10,7 @@
   - [Mon CV](https://sylvain-valvassori.github.io/My-CV/)    ||    [Visit le repo - Mon CV](https://github.com/Sylvain-Valvassori/My-CV)            
  
  
- - [Star Wars credits](https://sylvain-valvassori.github.io/Star-Wars-crawl/)    ||    [Visit le repo - Star Wars](https://github.com/Sylvain-Valvassori/Star-Wars-Crawl/edit/main/README.md)            
+ - [Star Wars credits](https://sylvain-valvassori.github.io/Star-Wars-crawl/)    ||    [Visit le repo - Star Wars](https://github.com/Sylvain-Valvassori/Star-Wars-crawl)            
  
  
   - [futur lien](https://www.google.com)
