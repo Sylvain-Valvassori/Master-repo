@@ -4,8 +4,8 @@
 
 ### Exercices 
 
-  - [Markdown to HTML and CSS](https://github.com/Sylvain-Valvassori/Markdown-warmup-html-css.git)
-  - [Mon CV](https://sylvain-valvassori.github.io/My-CV/)
+  - [Visitez mon travail - Markdown to HTML and CSS](https://sylvain-valvassori.github.io/Markdown-warmup-html-css/)  || [Visit le repo](https://github.com/Sylvain-Valvassori/Markdown-warmup-html-css.git)
+  - [Mon CV](https://sylvain-valvassori.github.io/My-CV/)  || [Visit le repo](https://github.com/Sylvain-Valvassori/My-CV)            
   - [Visit me](https://www.google.com)
   - [Visit me](https://www.google.com)
 
@@ -16,4 +16,6 @@
   - [Visit me](https://www.google.com)
   - [Visit me](https://www.google.com)
   - [Visit me](https://www.google.com)
+
+
 
