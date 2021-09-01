@@ -5,8 +5,12 @@
 ### Exercices 
 
   - [Visitez mon travail - Markdown to HTML and CSS](https://sylvain-valvassori.github.io/Markdown-warmup-html-css/)    ||    [Visit le repo - Markdown to HTML and CSS](https://github.com/Sylvain-Valvassori/Markdown-warmup-html-css.git)
+  
+  
   - [Mon CV](https://sylvain-valvassori.github.io/My-CV/)    ||    [Visit le repo - Mon CV](https://github.com/Sylvain-Valvassori/My-CV)            
  
+ 
+ - [Star Wars credits](https://sylvain-valvassori.github.io/Star-Wars-Crawl/)    ||    [Visit le repo - Star Wars](https://github.com/Sylvain-Valvassori/Star-Wars-Crawl/edit/main/README.md)            
  
  
   - [futur lien](https://www.google.com)
