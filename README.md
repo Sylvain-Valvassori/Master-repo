@@ -19,8 +19,8 @@ Ce repo concerne toute mon activité chez Becode : Exercices, Projets, etc.
 
 
 ### Projets
-| | |
-| :link work: | :link repo: |
+| link work| |
+| :--: | :--: |
 | [Active Collab](https://sylvain-valvassori.github.io/Project-active.collab.github.io/) | [Visit le repo - Active Collab](https://github.com/Sylvain-Valvassori/Project-active.collab.github.io) |
 | [futur lien](https://www.google.com) | [futur lien](https://www.google.com) |
 
