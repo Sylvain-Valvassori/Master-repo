@@ -1,10 +1,5 @@
 
-
-`vue-dark` ![vue-dark][vue-dark_repo]
-[vue-dark]https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark
-
-
-
+[vue-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=vue-dark
 
 
 # Master repo Becode de Valvassori Sylvain
