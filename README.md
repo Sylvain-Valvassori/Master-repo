@@ -3,7 +3,7 @@
 Ce repo concerne toute mon activité chez Becode : Exercices, Projets, etc. 
 
 ### Exercices 
-| | |
+| Link work|Link Repository|
 | :--: | :--: |
 | [Visitez mon travail - Markdown to HTML and CSS](https://sylvain-valvassori.github.io/Markdown-warmup-html-css/) | [Visit le repo - Markdown to HTML and CSS](https://github.com/Sylvain-Valvassori/Markdown-warmup-html-css.git) |
 | [Mon CV](https://sylvain-valvassori.github.io/My-CV/) | [Visit le repo - Mon CV](https://github.com/Sylvain-Valvassori/My-CV) |         
@@ -19,7 +19,7 @@ Ce repo concerne toute mon activité chez Becode : Exercices, Projets, etc.
 
 
 ### Projets
-| link work| |
+| Link work|Link Repository|
 | :--: | :--: |
 | [Active Collab](https://sylvain-valvassori.github.io/Project-active.collab.github.io/) | [Visit le repo - Active Collab](https://github.com/Sylvain-Valvassori/Project-active.collab.github.io) |
 | [futur lien](https://www.google.com) | [futur lien](https://www.google.com) |
