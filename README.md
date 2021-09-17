@@ -1,6 +1,6 @@
-![Master-repo][vue-dark_repo]
+![Master-repo][react_repo]
 
-[vue-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Sylvain-Valvassori&repo=Master-repo&cache_seconds=86400&theme=vue-dark
+[react_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Sylvain-Valvassori&repo=Master-repo&cache_seconds=86400&theme=react
 
 # Master repo
 Ce repo concerne toute mon activité chez Becode : Exercices, Projets, etc. 
