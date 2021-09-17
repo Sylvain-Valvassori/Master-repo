@@ -1,11 +1,4 @@
 
-
-![algo-js][vue-dark_repo]: https://github.com/Sylvain-Valvassori/algo-js
-
-[vue-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Sylvain-Valvassori&repo=algo-js&cache_seconds=86400&theme=vue-dark
-
-
-
 # Master repo Becode de Valvassori Sylvain
 Ce repo concerne toute mon activité chez Becode : Exercices, Projets, etc. 
 
@@ -14,7 +7,7 @@ Ce repo concerne toute mon activité chez Becode : Exercices, Projets, etc.
   - [Visitez mon travail - Markdown to HTML and CSS](https://sylvain-valvassori.github.io/Markdown-warmup-html-css/)    ||    [Visit le repo - Markdown to HTML and CSS](https://github.com/Sylvain-Valvassori/Markdown-warmup-html-css.git)
   
   
-  - [Mon CV](https://sylvain-valvassori.github.io/My-CV/)    ||    [Visit le repo - Mon CV](https://github.com/Sylvain-Valvassori/My-CV)            
+| [Mon CV](https://sylvain-valvassori.github.io/My-CV/)    ||    [Visit le repo - Mon CV](https://github.com/Sylvain-Valvassori/My-CV)   |         
  
  
  - [Star Wars credits](https://sylvain-valvassori.github.io/Star-Wars-crawl/)    ||    [Visit le repo - Star Wars](https://github.com/Sylvain-Valvassori/Star-Wars-crawl)            
