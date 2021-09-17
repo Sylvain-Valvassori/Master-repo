@@ -3,7 +3,8 @@
 Ce repo concerne toute mon activité chez Becode : Exercices, Projets, etc. 
 
 ### Exercices 
-
+| | | |
+| :--: | :--: | :--: |
 | [Visitez mon travail - Markdown to HTML and CSS](https://sylvain-valvassori.github.io/Markdown-warmup-html-css/) | [Visit le repo - Markdown to HTML and CSS](https://github.com/Sylvain-Valvassori/Markdown-warmup-html-css.git) |
   
   
