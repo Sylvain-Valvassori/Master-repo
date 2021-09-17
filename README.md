@@ -25,3 +25,6 @@ Ce repo concerne toute mon activité chez Becode : Exercices, Projets, etc.
 | [futur lien](https://www.google.com) | [futur lien](https://www.google.com) |
 
 
+![Master-repo][vue-dark_repo]
+
+[vue-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Sylvain-Valvassori&repo=Master-repo&cache_seconds=86400&theme=vue-dark
