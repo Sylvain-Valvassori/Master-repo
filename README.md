@@ -1,6 +1,6 @@
 
 
-![algo-js][vue-dark_repo](https://github.com/Sylvain-Valvassori/algo-js)
+![algo-js][vue-dark_repo]: https://github.com/Sylvain-Valvassori/algo-js
 
 [vue-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Sylvain-Valvassori&repo=algo-js&cache_seconds=86400&theme=vue-dark
 
