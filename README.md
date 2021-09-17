@@ -1,5 +1,5 @@
 
-# Master repo Becode de Valvassori Sylvain
+# Master repo
 Ce repo concerne toute mon activité chez Becode : Exercices, Projets, etc. 
 
 ### Exercices 
