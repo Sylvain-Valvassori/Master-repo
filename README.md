@@ -1,7 +1,9 @@
 
-![vue-dark][vue-dark_repo]
 
-[vue-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Sylvain-Valvassori&repo=Master-repo-Becode-Valvassori-Sylvain&cache_seconds=86400&theme=vue-dark
+![algo-js][vue-dark_repo]
+
+[vue-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Sylvain-Valvassori&repo=algo-js&cache_seconds=86400&theme=vue-dark
+
 
 
 # Master repo Becode de Valvassori Sylvain
