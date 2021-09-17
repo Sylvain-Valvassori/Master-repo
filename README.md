@@ -1,3 +1,13 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+
+
+
+
+
+
+
+
 # Master repo Becode de Valvassori Sylvain
 Ce repo concerne toute mon activité chez Becode : Exercices, Projets, etc. 
 
